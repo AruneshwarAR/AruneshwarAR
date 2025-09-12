@@ -1,6 +1,6 @@
 # Hi there, I'm Aruneshwar! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Software+Developer+%7C+Problem+Solver;Java+%7C+Python+%7C+TypeScript;Always+Learning+%7C+Building+%7C+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Senior+Test+Analyst+%7C+Associate+%7C+Cognizant;Software+Developer+%7C+Problem+Solver;Java+%7C+Python+%7C+TypeScript;Always+Learning+%7C+Building+%7C+Growing)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
